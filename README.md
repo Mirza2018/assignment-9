@@ -2,7 +2,7 @@
 
 **1. Here I Give the Arduino Uno Review.**
 
-**2. And includes six other person review with their ing.**
+**2. And includes six other person review with their picture.**
 
 **3. I also includes chart from rechart.js**
 
