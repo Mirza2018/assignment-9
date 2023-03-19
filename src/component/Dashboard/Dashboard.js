@@ -29,12 +29,11 @@ const Dashboard = () => {
       };
 
     return (
-        <div>
+        <div className='text-center'>
             
-
-            <h1>Dashboard</h1>
             <div>
-                <h1>StackedBarChart</h1>
+                <h1 className='text-lg font-bold'>1. StackedBarChart</h1>
+                <p className='font-semibold text-lg'>Investment & sell</p>
             <BarChart
           width={500}
           height={300}
@@ -59,14 +58,19 @@ const Dashboard = () => {
             </div>
 
             <div>
-                <h1>TwoLevelPieChart</h1>
+                
+                <h1 className='text-lg font-bold'>2 .TwoLevelPieChart</h1>
+                <p className='font-semibold text-lg'>Investment & sell</p>
             <PieChart width={400} height={400}>
           <Pie data={data} dataKey="investment" cx="50%" cy="50%" outerRadius={60} fill="#8884d8" />
           <Pie data={data} dataKey="sell" cx="50%" cy="50%" innerRadius={70} outerRadius={90} fill="#82ca9d" label />
         </PieChart>
             </div>
   <div>
-    <h1>CustomizedRectangleContent</h1>
+    <h1></h1>
+
+    <h1 className='text-lg font-bold'>3. CustomizedRectangleContent</h1>
+                <p className='font-semibold text-lg'>Investment & sell</p>
     <LineChart
         width={500}
         height={300}
@@ -90,8 +94,9 @@ const Dashboard = () => {
 
 
       <div>
-        <h1>SimpleRadarChart </h1> 
-        <p>Revenue</p>
+        <h1 className='text-lg font-bold'>4. SimpleRadarChart</h1>
+                <p className='font-semibold text-lg'>Revenue Generate in month</p>
+
       <RadarChart
       cx={300}
       cy={250}

@@ -56,7 +56,7 @@ const Home = () => {
       </div>
      
 
-      <h3 className='my-10 text-center text-rose-500 text-2xl font-black font-mono'> <NavLink to='/reviews'>View More reviews...</NavLink> </h3>
+      <h3 className='my-10 text-center text-rose-500 text-xl font-black font-mono'> <NavLink to='/reviews'>View More reviews...</NavLink> </h3>
     </div>
   );
 };
