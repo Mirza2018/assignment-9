@@ -1,25 +1,25 @@
 [
     {   "id":1,
         "name":"Ajumon R",
-        "text":"have more than 5 year experience with Arduino IDE. I like the ease of use of Arduino. The programming structures and burning tools are very useful. Compare to conventional C++ programming, Arduino have a large amount of header files that is very useful for programming.",
+        "text":"I have more than 5 year experience with Arduino IDE. I like the ease of use of Arduino. The programming structures and burning tools are very useful. Compare to conventional C++ programming, Arduino have a large amount of header files that is very useful for programming.",
         "img":"https://images.g2crowd.com/uploads/avatar/image/397625/thumb_square_8cf6e34a256d9a13393cf5c1e9c495a6.jpeg",
         "ratting":"5.00"
     },
     {   "id":2,
         "name":"Roger Alexander E.",
-        "text":"Debemos tomar en cuenta que Arduino posee una gran comunidad de ayuda entre los programadores, es una comunidad muy grande y se encuentra muy activa. En cuanto a la IDE, se mejoró la facilidad en la programación en algunas placas aún conservando su entorno clásico. Posee una gran lista de placas de programación predefinida. Me encanta que al instalarla cuente con algunas librerías predefinidas además de los ejemplos gráficos. Desde la página web oficial se cuenta con la Referencia de Arduino para guiarse con e lenguaje de programación.",
+        "text":"Debemos tomar en cuenta que Arduino posee una gran comunidad de ayuda entre los programadores, es una comunidad muy grande y se encuentra muy activa. En cuanto a la IDE, se mejoró la facilidad en la programación en algunas placas aún conservando su entorno .",
         "img":"https://lh3.googleusercontent.com/a-/AOh14GjK6R60n84vyFySQb_MWvWpsgTg9Rze7kZXjA57fA=s96-c",
         "ratting":"5.00"
     },
     {   "id":3,
         "name":"Tanishq G.",
-        "text":"For beginners it is the best IDE, as you can do everything by GUI, you don't need to know the micro details concerning every microcontroller/microprocessor, which is used in the development board. You can just add the board and download libraries and you can code and upload it in. You also don't need special hardware and be concerned about the baud rate and even use a serial monitor and plotter to check your values in real-time. AVRdude is nicely incorporated into the GUI platform. Extensive community support and available on all platforms for free are some great benefits.",
+        "text":"For beginners it is the best IDE, as you can do everything by GUI, you don't need to know the micro details concerning every microcontroller/microprocessor, which is used in the development board. You can just add the board and download libraries ...  ",
         "img":"https://images.g2crowd.com/uploads/avatar/image/621301/thumb_square_295f8de7156144985852e07e86f48c64.jpeg",
         "ratting":"5.00"
     },
     {   "id":4,
         "name":"Rohit P.",
-        "text":"Apretty simple programme with various possibilities from all of the boars that Arduino offers. The Arduino programming language is quite simple and free of flaws. Things which I liked in Arduino are,Packages and libraries present are really helpful,Installation process is fast,Best for beginners who are getting into electronics, It has high ease of writing code.",
+        "text":"Apretty simple programme with various possibilities from all of the boars that Arduino offers. The Arduino programming language is quite simple and free of flaws. Things which I liked in Arduino are,Packages and libraries present are really helpful,Installation process is fast,Best for beginners who are getting into electronics.",
         "img":"https://images.g2crowd.com/uploads/avatar/image/604941/thumb_square_ff230e2406c7752f7d80be91ab7226ce.jpeg",
         "ratting":"5.00"
     },
@@ -31,7 +31,7 @@
     },
     {   "id":6,
         "name":"Nadeem Ul Haq M.",
-        "text":"It's simple and easy to code in Arduino IDE; I use it to write sketches for IoT devices. The IDE provides a built-in library and boards manager; moreover, it includes examples and online documentation, making it the best tool for beginners.",
+        "text":"It's simple and easy to code in Arduino IDE; I use it to write sketches for IoT devices. The IDE provides a built-in library and boards manager; moreover, it includes examples and online documentation, making it the best tool for beginners.and i always use it . and there are many options to choose from all the boards that Arduino offers",
         "img":"https://images.g2crowd.com/uploads/avatar/image/565504/thumb_square_225e2847469039a38f72e682cb2de907.jpeg",
         "ratting":"5.00"
     }
